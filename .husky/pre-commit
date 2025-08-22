@@ -1,0 +1,7 @@
+# Run any linting or formatting checks here
+echo "Running pre-commit checks..."
+
+# Check if scripts are executable
+if [ -d "scripts/bin" ]; then
+    chmod +x scripts/bin/*.sh
+fi
