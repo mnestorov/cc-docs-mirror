@@ -201,14 +201,14 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "6d48d2da25efb4b7d832d79dadd332bd8ec37b55463af52e3d71b9be890420e9",
-      "last_updated": "2025-08-20T00:04:29.930470",
+      "hash": "1d02985d2f88add01375606fc5adaefc5cce3d835e43f5f77d79639570b001e0",
+      "last_updated": "2025-08-22T03:21:09.944232",
       "source": "claude-code-repository"
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-08-21T21:01:53.091338",
-    "fetch_duration_seconds": 23.53133,
+    "last_fetch_completed": "2025-08-22T03:21:09.944256",
+    "fetch_duration_seconds": 21.881894,
     "total_pages_discovered": 33,
     "pages_fetched_successfully": 34,
     "pages_failed": 0,
@@ -218,9 +218,9 @@
     "total_files": 34,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-08-21T21:01:53.091370",
-  "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs/main/docs/",
-  "github_repository": "mnestorov/cc-docs",
+  "last_updated": "2025-08-22T03:21:09.944278",
+  "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
+  "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
   "description": "Claude Code documentation manifest. Keys are filenames, append to base_url for full URL."
 }
