@@ -1,0 +1,12 @@
+# Python dependencies for Claude Code Documentation Fetcher
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+requests>=2.25.0
+
+# Optional dependencies for enhanced UX
+tqdm>=4.60.0  # Progress bars for better user experience
+
+# Development dependencies (optional)
+# mypy>=0.910  # Type checking
+# black>=21.0  # Code formatting

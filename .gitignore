@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Node/npm
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.npm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+.claude/settings.local.json
+.last_pull
+.last_check
+CLAUDE.md
+
+# Test files
+test_*.txt
+test_*.md
+*.test
+*.tmp
