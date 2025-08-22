@@ -1,7 +1,7 @@
 # Claude Code Documentation Mirror
 
-[![Last Update](https://img.shields.io/github/last-commit/mnestorov/cc-docs/main.svg?label=docs%20updated)](https://github.com/mnestorov/cc-docs/commits/main)
-[![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/mnestorov/cc-docs/releases)
+[![Last Update](https://img.shields.io/github/last-commit/mnestorov/cc-docs-mirror/main.svg?label=docs%20updated)](https://github.com/mnestorov/cc-docs-mirror/commits/main)
+[![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/mnestorov/cc-docs-mirror/releases)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-blue)]()
 
 Local mirror of Claude Code documentation files from https://docs.anthropic.com/en/docs/claude-code/, automatically updated with semantic versioning.
@@ -11,7 +11,7 @@ Local mirror of Claude Code documentation files from https://docs.anthropic.com/
 **One-command installation:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs/main/scripts/bin/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/scripts/bin/install.sh | bash
 ```
 
 This sets up the `/docs` command in Claude Code with automatic updates.
@@ -64,7 +64,7 @@ This sets up the `/docs` command in Claude Code with automatic updates.
 
 ### Manual Installation
 ```bash
-git clone https://github.com/mnestorov/cc-docs.git
+git clone https://github.com/mnestorov/cc-docs-mirror.git
 cd cc-docs
 ./scripts/bin/install.sh
 ```
@@ -121,7 +121,7 @@ ls ~/.claude/commands/docs.md
 
 # Restart Claude Code and try again
 # Or reinstall:
-curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs/main/scripts/bin/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/scripts/bin/install.sh | bash
 ```
 
 ### Documentation seems outdated
@@ -136,7 +136,7 @@ cd ~/.claude-code-docs && git pull
 ### Installation issues
 1. **Missing dependencies**: Install `git`, `jq`, `curl`
 2. **Permission errors**: Check `~/.claude/` directory permissions  
-3. **Network issues**: Check if GitHub Actions are running: [View Actions](https://github.com/mnestorov/cc-docs/actions)
+3. **Network issues**: Check if GitHub Actions are running: [View Actions](https://github.com/mnestorov/cc-docs-mirror/actions)
 
 ## 🗑️ Uninstalling
 
@@ -194,16 +194,16 @@ The uninstaller creates a backup of your Claude settings at `~/.claude/settings.
 
 To reinstall after uninstalling:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs/main/scripts/bin/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/scripts/bin/install.sh | bash
 ```
 
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
 
-- 🪟 **Windows Support**: Want to help add Windows compatibility? [Fork the repository](https://github.com/mnestorov/cc-docs/fork) and submit a PR!
-- 🐛 **Bug Reports**: Found something not working? [Open an issue](https://github.com/mnestorov/cc-docs/issues)
-- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/mnestorov/cc-docs/issues)
+- 🪟 **Windows Support**: Want to help add Windows compatibility? [Fork the repository](https://github.com/mnestorov/cc-docs-mirror/fork) and submit a PR!
+- 🐛 **Bug Reports**: Found something not working? [Open an issue](https://github.com/mnestorov/cc-docs-mirror/issues)
+- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/mnestorov/cc-docs-mirror/issues)
 - 📝 **Documentation**: Help improve docs or add examples
 
 You can use Claude Code itself to help build features - just fork the repo and let Claude assist you!
@@ -230,4 +230,4 @@ This mirror tool is open source under MIT license.
 
 ---
 
-**Need help?** [Open an issue](https://github.com/mnestorov/cc-docs/issues) or check the [troubleshooting section](#-troubleshooting) above.
+**Need help?** [Open an issue](https://github.com/mnestorov/cc-docs-mirror/issues) or check the [troubleshooting section](#-troubleshooting) above.

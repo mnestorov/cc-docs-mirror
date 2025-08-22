@@ -4,7 +4,7 @@
   "description": "Local mirror of Claude Code documentation with auto-sync",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mnestorov/cc-docs.git"
+    "url": "https://github.com/mnestorov/cc-docs-mirror.git"
   },
   "private": false,
   "scripts": {

@@ -87,13 +87,13 @@ def save_manifest(docs_dir: Path, manifest: dict) -> None:
     manifest["last_updated"] = datetime.now().isoformat()
     
     # Get GitHub repository from environment or use default
-    github_repo = os.environ.get('GITHUB_REPOSITORY', 'mnestorov/cc-docs')
+    github_repo = os.environ.get('GITHUB_REPOSITORY', 'mnestorov/cc-docs-mirror')
     github_ref = os.environ.get('GITHUB_REF_NAME', 'main')
     
     # Validate repository name format (owner/repo)
     if not re.match(r'^[\w.-]+/[\w.-]+$', github_repo):
         logger.warning(f"Invalid repository format: {github_repo}, using default")
-        github_repo = 'mnestorov/cc-docs'
+        github_repo = 'mnestorov/cc-docs-mirror'
     
     # Validate branch/ref name
     if not re.match(r'^[\w.-]+$', github_ref):
@@ -535,7 +535,7 @@ def main():
     logger.info("Starting Claude Code documentation fetch")
     
     # Log configuration
-    github_repo = os.environ.get('GITHUB_REPOSITORY', 'mnestorov/cc-docs')
+    github_repo = os.environ.get('GITHUB_REPOSITORY', 'mnestorov/cc-docs-mirror')
     logger.info(f"GitHub repository: {github_repo}")
     
     # Create docs directory at repository root

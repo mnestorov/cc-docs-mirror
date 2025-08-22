@@ -23,7 +23,7 @@ sanitize_input() {
 
 # Function to print documentation header
 print_doc_header() {
-    echo "📚 COMMUNITY MIRROR: https://github.com/mnestorov/cc-docs"
+    echo "📚 COMMUNITY MIRROR: https://github.com/mnestorov/cc-docs-mirror"
     echo "📖 OFFICIAL DOCS: https://docs.anthropic.com/en/docs/claude-code"
     echo ""
 }
@@ -83,7 +83,7 @@ show_freshness() {
     if [[ ! -f "$MANIFEST" ]]; then
         echo "❌ Error: Documentation not found at ~/.claude-code-docs"
         echo "Please reinstall with:"
-        echo "curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs/main/install.sh | bash"
+        echo "curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/install.sh | bash"
         exit 1
     fi
     
@@ -270,7 +270,7 @@ whats_new() {
         local date=$(git show -s --format=%cr "$hash" 2>/dev/null || echo "unknown")
         
         echo "• $date:"
-        echo "  📎 https://github.com/mnestorov/cc-docs/commit/$hash"
+        echo "  📎 https://github.com/mnestorov/cc-docs-mirror/commit/$hash"
         
         # Show which docs changed
         local changed_docs=$(git diff-tree --no-commit-id --name-only -r "$hash" -- docs/*.md 2>/dev/null | sed 's|docs/||' | sed 's|\.md$||' | head -5)
@@ -288,7 +288,7 @@ whats_new() {
         echo ""
     fi
     
-    echo "📎 Full changelog: https://github.com/mnestorov/cc-docs/commits/main/docs"
+    echo "📎 Full changelog: https://github.com/mnestorov/cc-docs-mirror/commits/main/docs"
     echo "📚 COMMUNITY MIRROR - NOT AFFILIATED WITH ANTHROPIC"
     
     # Re-enable strict error handling
