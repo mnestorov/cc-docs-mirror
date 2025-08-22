@@ -199,14 +199,34 @@ curl -fsSL https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/scrip
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for detailed information.
 
-- 🪟 **Windows Support**: Want to help add Windows compatibility? [Fork the repository](https://github.com/mnestorov/cc-docs-mirror/fork) and submit a PR!
-- 🐛 **Bug Reports**: Found something not working? [Open an issue](https://github.com/mnestorov/cc-docs-mirror/issues)
-- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/mnestorov/cc-docs-mirror/issues)
-- 📝 **Documentation**: Help improve docs or add examples
+### Quick Start for Contributors
 
-You can use Claude Code itself to help build features - just fork the repo and let Claude assist you!
+1. **Fork & Clone**:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/cc-docs-mirror.git
+   cd cc-docs-mirror
+   npm install
+   ```
+
+2. **Make Changes** following our conventions:
+   - Use conventional commits (`feat:`, `fix:`, `docs:`)
+   - Test your changes locally
+   - Update documentation as needed
+
+3. **Submit a Pull Request** with a clear description
+
+### Ways to Contribute
+
+- 🪟 **Windows Support**: Help make scripts work on Windows (high priority!)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/mnestorov/cc-docs-mirror/issues) with reproduction steps
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/mnestorov/cc-docs-mirror/discussions) for new ideas
+- 📝 **Documentation**: Improve guides, add examples, fix typos
+- ⚡ **Performance**: Optimize fetching and processing speed
+- 🌍 **Translations**: Help internationalize the project
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for complete guidelines, code style, and development setup.
 
 ## 🔒 Security
 
@@ -222,12 +242,52 @@ For additional security, you can fork the repository and install from your own f
 Documentation content belongs to Anthropic.  
 This mirror tool is open source under MIT license.
 
+## 📈 Project Status
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mnestorov/cc-docs-mirror)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mnestorov/cc-docs-mirror/release.yml)
+![GitHub contributors](https://img.shields.io/github/contributors/mnestorov/cc-docs-mirror)
+![GitHub issues](https://img.shields.io/github/issues/mnestorov/cc-docs-mirror)
+
+## 🗺️ Roadmap
+
+- [ ] 🪟 Windows support
+- [ ] 🔍 Enhanced search capabilities
+- [ ] 📱 Better mobile/terminal UI
+- [ ] 🌐 Offline-first improvements
+- [ ] 🎨 Customizable themes
+- [ ] 📊 Usage analytics (optional)
+- [ ] 🌍 Multi-language support
+
+## 👥 Contributors
+
+Thanks to all contributors who help make this project better!
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Want to see your name here? Check out our [Contributing Guidelines](CONTRIBUTING.md)!
+
 ## 🙏 Acknowledgments
 
 - **Anthropic** for Claude Code and excellent documentation
 - **Community contributors** who help improve this tool
 - **Claude Code users** who provide feedback and feature requests
+- **Open source community** for inspiration and best practices
+
+## 📞 Support
+
+- 📖 **Documentation**: Check the sections above
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/mnestorov/cc-docs-mirror/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mnestorov/cc-docs-mirror/issues)
+- 📧 **Contact**: Open an issue for questions
 
 ---
 
-**Need help?** [Open an issue](https://github.com/mnestorov/cc-docs-mirror/issues) or check the [troubleshooting section](#-troubleshooting) above.
+<div align="center">
+
+**Made with ❤️ for the community**
+
+[Report Bug](https://github.com/mnestorov/cc-docs-mirror/issues) · [Request Feature](https://github.com/mnestorov/cc-docs-mirror/discussions) · [Contributing](CONTRIBUTING.md)
+
+</div>
