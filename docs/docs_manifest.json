@@ -159,8 +159,8 @@
     "sdk__sdk-typescript.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/sdk-typescript",
       "original_md_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/sdk-typescript.md",
-      "hash": "8f98e264fc2dc3ccd2bdbffe37028d34b0a2491f3dabc25a82e7ef0f2d77f11b",
-      "last_updated": "2025-08-26T21:04:07.105925"
+      "hash": "39b55637cf499d67df484cee1fc1ef1ef22e559902d6961c46d7e17b0319100d",
+      "last_updated": "2025-08-28T03:18:54.287491"
     },
     "security.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/security",
@@ -225,8 +225,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-08-28T00:17:49.766429",
-    "fetch_duration_seconds": 19.60091,
+    "last_fetch_completed": "2025-08-28T03:18:59.173056",
+    "fetch_duration_seconds": 20.009343,
     "total_pages_discovered": 36,
     "pages_fetched_successfully": 37,
     "pages_failed": 0,
@@ -236,7 +236,7 @@
     "total_files": 37,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-08-28T00:17:49.766449",
+  "last_updated": "2025-08-28T03:18:59.173085",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
