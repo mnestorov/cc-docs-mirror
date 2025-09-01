@@ -231,8 +231,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-09-01T09:06:00.501729",
-    "fetch_duration_seconds": 21.4362,
+    "last_fetch_completed": "2025-09-01T12:07:29.092345",
+    "fetch_duration_seconds": 20.472248,
     "total_pages_discovered": 37,
     "pages_fetched_successfully": 38,
     "pages_failed": 0,
@@ -242,7 +242,7 @@
     "total_files": 38,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-09-01T09:06:00.501757",
+  "last_updated": "2025-09-01T12:07:29.092378",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
