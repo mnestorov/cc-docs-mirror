@@ -75,8 +75,8 @@
     "iam.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/iam",
       "original_md_url": "https://docs.anthropic.com/en/docs/claude-code/iam.md",
-      "hash": "a6e3be6da0eda9a81bb38a351fa3bc2af95402688995186e1e9deb758077753b",
-      "last_updated": "2025-08-26T21:03:59.193903"
+      "hash": "43d29a41e580ef96176752e019d1371a189602b91212e83e7551930219a6acff",
+      "last_updated": "2025-09-02T18:04:59.414002"
     },
     "ide-integrations.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/ide-integrations",
@@ -231,8 +231,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-09-02T15:04:53.597420",
-    "fetch_duration_seconds": 20.142935,
+    "last_fetch_completed": "2025-09-02T18:05:12.534732",
+    "fetch_duration_seconds": 21.955061,
     "total_pages_discovered": 37,
     "pages_fetched_successfully": 38,
     "pages_failed": 0,
@@ -242,7 +242,7 @@
     "total_files": 38,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-09-02T15:04:53.597452",
+  "last_updated": "2025-09-02T18:05:12.534762",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
