@@ -141,8 +141,8 @@
     "quickstart.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/quickstart",
       "original_md_url": "https://docs.anthropic.com/en/docs/claude-code/quickstart.md",
-      "hash": "1ee649b487f11735e612f8de06d26a42f3c58402509da865e641b69d4228ab96",
-      "last_updated": "2025-08-26T21:04:04.923464"
+      "hash": "f8db0dce0cbcf48465eafde2bcd7b43d767c886faed7717e304cdff356a937e6",
+      "last_updated": "2025-09-04T09:05:06.572793"
     },
     "sdk__sdk-headless.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/sdk-headless",
@@ -231,8 +231,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-09-04T06:06:19.380025",
-    "fetch_duration_seconds": 19.856839,
+    "last_fetch_completed": "2025-09-04T09:05:13.615021",
+    "fetch_duration_seconds": 20.153711,
     "total_pages_discovered": 37,
     "pages_fetched_successfully": 38,
     "pages_failed": 0,
@@ -242,7 +242,7 @@
     "total_files": 38,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-09-04T06:06:19.380054",
+  "last_updated": "2025-09-04T09:05:13.615049",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
