@@ -31,7 +31,7 @@ npm install -g @anthropic-ai/claude-code
 **macOS, Linux, WSL:**
 
 ```bash
-curl -fsSL https://claude.ai/install.sh | bash
+curl -fsSL claude.ai/install.sh | bash
 ```
 
 **Windows PowerShell:**
