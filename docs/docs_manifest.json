@@ -153,8 +153,8 @@
     "sdk__sdk-headless.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/sdk-headless",
       "original_md_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/sdk-headless.md",
-      "hash": "075878969c9bc428ba1e5217b0b0cea3c740421c4814dcdc0c9c8cecc44de4e1",
-      "last_updated": "2025-08-26T18:05:58.721680"
+      "hash": "a3887800ab82e9ab880fd88161c150aa140563282a539954a389c48a6d3b101d",
+      "last_updated": "2025-09-10T18:06:15.947944"
     },
     "sdk__sdk-overview.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/sdk-overview",
@@ -231,8 +231,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-09-10T15:04:53.292957",
-    "fetch_duration_seconds": 20.537184,
+    "last_fetch_completed": "2025-09-10T18:06:22.070464",
+    "fetch_duration_seconds": 21.321998,
     "total_pages_discovered": 38,
     "pages_fetched_successfully": 38,
     "pages_failed": 1,
@@ -244,7 +244,7 @@
     "total_files": 38,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-09-10T15:04:53.292988",
+  "last_updated": "2025-09-10T18:06:22.070490",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
