@@ -3,8 +3,8 @@
     "amazon-bedrock.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/amazon-bedrock",
       "original_md_url": "https://docs.anthropic.com/en/docs/claude-code/amazon-bedrock.md",
-      "hash": "1ca788545bdb7f20edfd73977a3a7ea693a465e52ef50179215192141f2d0826",
-      "last_updated": "2025-09-10T21:04:03.195628"
+      "hash": "7e9b2e9ed6f791054149cd38e0ae942e656d0b7aafb2442c18ff6b57c5de6e10",
+      "last_updated": "2025-09-12T21:03:48.886300"
     },
     "analytics.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/analytics",
@@ -153,8 +153,8 @@
     "sdk__custom-tools.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/custom-tools",
       "original_md_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/custom-tools.md",
-      "hash": "3e6e3899afe967c87f77822f6268daea1cd6374f1ef2fa1d827913d57b92f11c",
-      "last_updated": "2025-09-12T18:05:47.146920"
+      "hash": "7cb3754f5c50f5868eea8f27f285551f6fe194d860be433926d5308906572504",
+      "last_updated": "2025-09-12T21:04:02.074662"
     },
     "sdk__modifying-system-prompts.md": {
       "original_url": "https://docs.anthropic.com/en/docs/claude-code/sdk/modifying-system-prompts",
@@ -297,8 +297,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-09-12T18:05:59.204804",
-    "fetch_duration_seconds": 27.992173,
+    "last_fetch_completed": "2025-09-12T21:04:13.921454",
+    "fetch_duration_seconds": 26.542223,
     "total_pages_discovered": 48,
     "pages_fetched_successfully": 49,
     "pages_failed": 0,
@@ -308,7 +308,7 @@
     "total_files": 49,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-09-12T18:05:59.204826",
+  "last_updated": "2025-09-12T21:04:13.921484",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
