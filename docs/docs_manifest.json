@@ -27,8 +27,8 @@
     "costs.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/costs",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/costs.md",
-      "hash": "d921f52c69d936c18f4813b50288f47e6b96d99c6f8fc946651557eb5e1f22e1",
-      "last_updated": "2025-09-23T18:06:03.818713"
+      "hash": "02de2c7264de4b28d6ec3e6cd331c54fae4f11ecd704b9300e75aab318498d3d",
+      "last_updated": "2025-09-26T21:03:57.325486"
     },
     "data-usage.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/data-usage",
@@ -249,14 +249,14 @@
     "setup.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/setup",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/setup.md",
-      "hash": "1f01119bc9acc5ca5c79667ea969ab3a2857e3517605878de02be07c68ffeaec",
-      "last_updated": "2025-09-16T18:06:41.620213"
+      "hash": "85d133e659bc33e9c08a4953fcbe3b2e22c13b3441cff1f45d4df7c028ddaec2",
+      "last_updated": "2025-09-26T21:04:18.439923"
     },
     "slash-commands.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/slash-commands",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/slash-commands.md",
-      "hash": "d4cbd2be73f251ff178a0d21980a7b019ebc9ecd0cd6f74eb2adc17c3d86d3b5",
-      "last_updated": "2025-09-24T15:04:56.380345"
+      "hash": "84a6f3de9603d1d01b14d136cfa358a5e33478474db069d4c157ca8f7ec69ca9",
+      "last_updated": "2025-09-26T21:04:18.966885"
     },
     "statusline.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/statusline",
@@ -297,8 +297,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-09-26T18:05:57.661223",
-    "fetch_duration_seconds": 28.13344,
+    "last_fetch_completed": "2025-09-26T21:04:21.999125",
+    "fetch_duration_seconds": 28.322105,
     "total_pages_discovered": 48,
     "pages_fetched_successfully": 49,
     "pages_failed": 0,
@@ -308,7 +308,7 @@
     "total_files": 49,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-09-26T18:05:57.661270",
+  "last_updated": "2025-09-26T21:04:21.999149",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
