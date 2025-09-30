@@ -46,6 +46,33 @@ Once installed, you can start using Claude Code through the VS Code interface:
 4. Review and accept edits directly in the interface
    * **Tip**: Drag the sidebar wider to see inline diffs, then click on them to expand for full details
 
+### Using Third-Party Providers (Vertex and Bedrock)
+
+The VS Code extension supports using Claude Code with third-party providers like Amazon Bedrock and Google Vertex AI. When configured with these providers, the extension will not prompt for login. To use third-party providers, configure environment variables in the VS Code extension settings:
+
+1. Open VS Code settings
+2. Search for "Claude Code: Environment Variables"
+3. Add the required environment variables
+
+#### Environment Variables
+
+| Variable                      | Description                            | Required               | Example                                          |
+| :---------------------------- | :------------------------------------- | :--------------------- | :----------------------------------------------- |
+| `CLAUDE_CODE_USE_BEDROCK`     | Enable Amazon Bedrock integration      | Required for Bedrock   | `"1"` or `"true"`                                |
+| `CLAUDE_CODE_USE_VERTEX`      | Enable Google Vertex AI integration    | Required for Vertex AI | `"1"` or `"true"`                                |
+| `ANTHROPIC_API_KEY`           | API key for third-party access         | Required               | `"your-api-key"`                                 |
+| `AWS_REGION`                  | AWS region for Bedrock                 |                        | `"us-east-2"`                                    |
+| `AWS_PROFILE`                 | AWS profile for Bedrock authentication |                        | `"your-profile"`                                 |
+| `CLOUD_ML_REGION`             | Region for Vertex AI                   |                        | `"global"` or `"us-east5"`                       |
+| `ANTHROPIC_VERTEX_PROJECT_ID` | GCP project ID for Vertex AI           |                        | `"your-project-id"`                              |
+| `ANTHROPIC_MODEL`             | Override primary model                 | Override model ID      | `"us.anthropic.claude-3-7-sonnet-20250219-v1:0"` |
+| `ANTHROPIC_SMALL_FAST_MODEL`  | Override small/fast model              | Optional               | `"us.anthropic.claude-3-5-haiku-20241022-v1:0"`  |
+
+For detailed setup instructions and additional configuration options, see:
+
+* [Claude Code on Amazon Bedrock](/en/docs/claude-code/amazon-bedrock)
+* [Claude Code on Google Vertex AI](/en/docs/claude-code/google-vertex-ai)
+
 ### Not Yet Implemented
 
 The following features are not yet available in the VS Code extension:
