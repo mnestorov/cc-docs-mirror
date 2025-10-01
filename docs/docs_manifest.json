@@ -3,8 +3,8 @@
     "amazon-bedrock.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/amazon-bedrock",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/amazon-bedrock.md",
-      "hash": "33b94e44746b46ef47d79a329e3e356eb9b948e295347db2e5e5c070784a52eb",
-      "last_updated": "2025-09-29T18:06:01.260473"
+      "hash": "2238b6f68a5f8c4c867df8b6512eea95a087eb002b5425fc3a9731c6e7ad6d25",
+      "last_updated": "2025-10-01T00:19:48.388592"
     },
     "analytics.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/analytics",
@@ -21,8 +21,8 @@
     "cli-reference.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/cli-reference",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/cli-reference.md",
-      "hash": "5b6110c187e3bcb3dae2e710ceb72dfcf83721194dc3c82dd2c467e23ba00f2f",
-      "last_updated": "2025-09-29T18:06:02.819844"
+      "hash": "37d0576db8ef7110c86d6c919fa870bda16561a9a0de75458692a250c4baacb8",
+      "last_updated": "2025-10-01T00:19:50.025783"
     },
     "common-workflows.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/common-workflows",
@@ -177,8 +177,8 @@
     "settings.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/settings",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/settings.md",
-      "hash": "d30f142847fee79aabca9713ecbe56ffb163da60430b1688be4a9a4ef78d3eae",
-      "last_updated": "2025-09-29T18:06:16.396717"
+      "hash": "41efe484cc340ec56ce3a96d9948f4bcaded5b6ac2460a1219bccc19ab15e392",
+      "last_updated": "2025-10-01T00:21:15.589133"
     },
     "setup.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/setup",
@@ -189,8 +189,8 @@
     "slash-commands.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/slash-commands",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/slash-commands.md",
-      "hash": "6ffc89d3d067f99417e4514ca2cc8184aa0ff98a7787c5379f58555e4fdf721b",
-      "last_updated": "2025-09-29T18:06:17.454653"
+      "hash": "43362c2bbeed1119046189f8eeee267e424b8347adec17d9228b9361e0caaf86",
+      "last_updated": "2025-10-01T00:21:17.437427"
     },
     "statusline.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/statusline",
@@ -201,14 +201,14 @@
     "sub-agents.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/sub-agents",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/sub-agents.md",
-      "hash": "7cb9a8cd7a2774847458d4738fd71b103eea219643c1bcd2706a1a033312cacd",
-      "last_updated": "2025-09-15T21:04:31.531203"
+      "hash": "2e34cba0e0d8be2a1d2c18eed09c35bdd79e89a92825130a52ba2609df51bdfb",
+      "last_updated": "2025-10-01T00:21:20.074791"
     },
     "terminal-config.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/terminal-config",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/terminal-config.md",
-      "hash": "f43b3d3ff68b017ff8c039aa896bc6dd5df213141f6341f4ed012ff05de08efb",
-      "last_updated": "2025-08-13T15:14:35.488994"
+      "hash": "24102bbe16be8340a6712575fd76b0789f4bdbb24a02d92cdf383b9283361846",
+      "last_updated": "2025-10-01T00:21:24.461264"
     },
     "third-party-integrations.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/third-party-integrations",
@@ -237,8 +237,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-09-30T21:04:22.564343",
-    "fetch_duration_seconds": 20.667456,
+    "last_fetch_completed": "2025-10-01T00:21:35.678567",
+    "fetch_duration_seconds": 111.028137,
     "total_pages_discovered": 38,
     "pages_fetched_successfully": 39,
     "pages_failed": 0,
@@ -248,7 +248,7 @@
     "total_files": 39,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-09-30T21:04:22.564371",
+  "last_updated": "2025-10-01T00:21:35.678586",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
