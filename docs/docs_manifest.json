@@ -117,8 +117,8 @@
     "mcp.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/mcp",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/mcp.md",
-      "hash": "84a885fe250ec6a0254051bbff7564d9d9ac2a578bb4e34db1de161f5df210f4",
-      "last_updated": "2025-09-04T15:05:03.889603"
+      "hash": "000fdb9631a66f3dda08d1682cc9ae30971b265e2231cc449bdaa245413fcc6f",
+      "last_updated": "2025-10-02T21:04:16.526332"
     },
     "memory.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/memory",
@@ -177,8 +177,8 @@
     "settings.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/settings",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/settings.md",
-      "hash": "41efe484cc340ec56ce3a96d9948f4bcaded5b6ac2460a1219bccc19ab15e392",
-      "last_updated": "2025-10-01T00:21:15.589133"
+      "hash": "0806a946cc6b4bc89bc8f6bc3d762ea7ff971bba6e97f3e9654680b04a778b3d",
+      "last_updated": "2025-10-02T21:04:21.794485"
     },
     "setup.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/setup",
@@ -231,14 +231,14 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "19fe6f4dc24b944f964dc326d55e43c03ee9e040b016db54d8f72b9d634b00c1",
-      "last_updated": "2025-09-30T03:15:57.779044",
+      "hash": "c960b495c7e08169f4639684dea0215b83eba97d2e8ec5d0a3711d3bd19633e0",
+      "last_updated": "2025-10-02T21:04:26.053909",
       "source": "claude-code-repository"
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-10-02T18:06:05.710346",
-    "fetch_duration_seconds": 22.950328,
+    "last_fetch_completed": "2025-10-02T21:04:26.053937",
+    "fetch_duration_seconds": 35.740547,
     "total_pages_discovered": 38,
     "pages_fetched_successfully": 39,
     "pages_failed": 0,
@@ -248,7 +248,7 @@
     "total_files": 39,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-10-02T18:06:05.710375",
+  "last_updated": "2025-10-02T21:04:26.053978",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
