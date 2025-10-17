@@ -195,8 +195,8 @@
     "settings.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/settings",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/settings.md",
-      "hash": "c22002988d82b2cd2af810d53dd3790d952bb3241aeb636cdee328918b5fe509",
-      "last_updated": "2025-10-13T21:14:53.386543"
+      "hash": "b2301f567449dc4234cf451683992d26d6ce246c1f0456b7faf37563695e9578",
+      "last_updated": "2025-10-17T12:35:00.023724"
     },
     "setup.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/setup",
@@ -261,8 +261,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-10-17T09:18:46.898618",
-    "fetch_duration_seconds": 23.903851,
+    "last_fetch_completed": "2025-10-17T12:35:04.823521",
+    "fetch_duration_seconds": 23.85473,
     "total_pages_discovered": 42,
     "pages_fetched_successfully": 43,
     "pages_failed": 0,
@@ -272,7 +272,7 @@
     "total_files": 43,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-10-17T09:18:46.898650",
+  "last_updated": "2025-10-17T12:35:04.823560",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
