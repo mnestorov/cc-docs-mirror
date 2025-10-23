@@ -219,8 +219,8 @@
     "skills.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/skills",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/skills.md",
-      "hash": "8da5989342f2600b8659c692922a14499645a0a03669920d18ebeaad7c9cd883",
-      "last_updated": "2025-10-23T06:25:55.248743"
+      "hash": "8cd24d583576623dea0ed3d62064f49b946ae1a4ffcea3498489cc7ee440e322",
+      "last_updated": "2025-10-23T15:18:15.243715"
     },
     "slash-commands.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/slash-commands",
@@ -273,8 +273,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-10-23T12:36:57.946329",
-    "fetch_duration_seconds": 23.947007,
+    "last_fetch_completed": "2025-10-23T15:18:19.162205",
+    "fetch_duration_seconds": 25.786422,
     "total_pages_discovered": 44,
     "pages_fetched_successfully": 45,
     "pages_failed": 0,
@@ -284,7 +284,7 @@
     "total_files": 45,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-10-23T12:36:57.946358",
+  "last_updated": "2025-10-23T15:18:19.162230",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
