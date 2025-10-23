@@ -21,8 +21,8 @@
     "claude-code-on-the-web.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/claude-code-on-the-web",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/claude-code-on-the-web.md",
-      "hash": "d0a276452aabf2fa561386deca55ab194091eaaf78447bb898fae58dd31c72cf",
-      "last_updated": "2025-10-21T01:17:37.181603"
+      "hash": "ba818b9e54d7b8562fafed1be91563376bf83b16a6b63275b8c3f6a4835b11da",
+      "last_updated": "2025-10-23T01:17:09.086435"
     },
     "cli-reference.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/cli-reference",
@@ -171,8 +171,8 @@
     "plugins.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/plugins",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/plugins.md",
-      "hash": "3a28b88485833b664ad46553f71fce8d7d37958e660c359e14d4f03604d07fe1",
-      "last_updated": "2025-10-16T18:24:14.053175"
+      "hash": "76b6d7089a84f92c8a7bf14b778641fcda3bc3c05e2db370f66f698796d6bd41",
+      "last_updated": "2025-10-23T01:17:22.324196"
     },
     "plugins-reference.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/plugins-reference",
@@ -189,8 +189,8 @@
     "sandboxing.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/sandboxing",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/sandboxing.md",
-      "hash": "94f76c5f575ab4edb2bfca371d8344cae3c8f19eae8db6628b6e93cdc353f78e",
-      "last_updated": "2025-10-20T18:26:22.016734"
+      "hash": "942d6d1bba4c0b55b8f04bcddb31f1ecf6864d9ecf1a18384ba9db05e006e075",
+      "last_updated": "2025-10-23T01:17:23.896879"
     },
     "sdk__migration-guide.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/sdk/migration-guide",
@@ -201,8 +201,8 @@
     "security.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/security",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/security.md",
-      "hash": "f37f607e1244f7f7246add39ea1335adbce2993bd16a1492d86928c81bb791dc",
-      "last_updated": "2025-10-20T18:26:26.325538"
+      "hash": "745eba4010c53a81d8555d77d68d051b73657e0a39e3d2633bf3fb28ef128290",
+      "last_updated": "2025-10-23T01:17:24.942402"
     },
     "settings.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/settings",
@@ -219,8 +219,8 @@
     "skills.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/skills",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/skills.md",
-      "hash": "8da5989342f2600b8659c692922a14499645a0a03669920d18ebeaad7c9cd883",
-      "last_updated": "2025-10-16T18:24:17.841478"
+      "hash": "8cd24d583576623dea0ed3d62064f49b946ae1a4ffcea3498489cc7ee440e322",
+      "last_updated": "2025-10-23T01:17:26.521389"
     },
     "slash-commands.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/slash-commands",
@@ -261,8 +261,8 @@
     "vs-code.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/vs-code",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/vs-code.md",
-      "hash": "fccba6bd07226961d62bb07c580e2ef1dd3f92c5323eb7557c9ed8f6c1f662c0",
-      "last_updated": "2025-10-20T01:21:29.959220"
+      "hash": "80365ad83f835efefcc8610f22b75b97864fb40a96f75ece0d76e5df6310682c",
+      "last_updated": "2025-10-23T01:17:30.173824"
     },
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
@@ -273,8 +273,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-10-22T21:13:16.043758",
-    "fetch_duration_seconds": 24.118142,
+    "last_fetch_completed": "2025-10-23T01:17:30.378891",
+    "fetch_duration_seconds": 25.497873,
     "total_pages_discovered": 44,
     "pages_fetched_successfully": 45,
     "pages_failed": 0,
@@ -284,7 +284,7 @@
     "total_files": 45,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-10-22T21:13:16.043785",
+  "last_updated": "2025-10-23T01:17:30.378912",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
