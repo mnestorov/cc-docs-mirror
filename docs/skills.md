@@ -597,6 +597,10 @@ Claude loads additional files only when needed.
     Learn how Skills work across Claude products
   </Card>
 
+  <Card title="Use Skills in the Agent SDK" icon="cube" href="/en/api/agent-sdk/skills">
+    Use Skills programmatically with TypeScript and Python
+  </Card>
+
   <Card title="Get started with Agent Skills" icon="rocket" href="/en/docs/agents-and-tools/agent-skills/quickstart">
     Create your first Skill
   </Card>
