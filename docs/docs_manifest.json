@@ -225,8 +225,8 @@
     "slash-commands.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/slash-commands",
       "original_md_url": "https://docs.claude.com/en/docs/claude-code/slash-commands.md",
-      "hash": "2cc463b1ad168ca93269c0b473d2a1d52eb5cd05aadfa62da649fcc049774b65",
-      "last_updated": "2025-10-20T18:26:31.383713"
+      "hash": "c0f08799c267928304bc0422e3037d13495ec36a57e1d779cb020c25baafecec",
+      "last_updated": "2025-11-06T06:07:11.649903"
     },
     "statusline.md": {
       "original_url": "https://docs.claude.com/en/docs/claude-code/statusline",
@@ -273,8 +273,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-11-06T03:25:52.347061",
-    "fetch_duration_seconds": 26.305287,
+    "last_fetch_completed": "2025-11-06T06:07:15.340594",
+    "fetch_duration_seconds": 27.539422,
     "total_pages_discovered": 44,
     "pages_fetched_successfully": 45,
     "pages_failed": 0,
@@ -284,7 +284,7 @@
     "total_files": 45,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-11-06T03:25:52.347082",
+  "last_updated": "2025-11-06T06:07:15.340625",
   "base_url": "https://raw.githubusercontent.com/mnestorov/cc-docs-mirror/main/docs/",
   "github_repository": "mnestorov/cc-docs-mirror",
   "github_ref": "main",
